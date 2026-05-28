@@ -1,0 +1,40 @@
+* {
+padding: 0;
+margin: 0;
+box-sizing: border-box;
+}
+
+body {
+    background-color: black;
+}
+.logo {
+    width: 98vw;
+    text-align: center;
+}
+.logoImg{
+    position: relative;
+}
+
+.introduzir {
+    position: relative;
+    transition: ease 4.3s;
+    left: -50vw
+}
+
+.prologo{
+    color:white;
+    margin-top: 50px;  
+}
+
+.gro-goroth {
+    margin-bottom: 30px;
+}
+.gro-goroth:hover {
+    border: solid 5px yellow;
+    margin-top: 3px;
+}
+
+.start{
+    width: 98vw;
+    text-align: center;
+}

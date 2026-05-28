@@ -1,0 +1,15 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box
+}
+
+.tela{
+    width: 100vw;
+    height: 99vh;
+    text-align: center;
+    align-content: end;
+}
+.telaImg{
+    height: 40%;
+}
